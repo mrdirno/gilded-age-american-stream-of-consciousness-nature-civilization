@@ -1,0 +1,160 @@
+{
+  "book_id": "gilded-age-american-stream-of-consciousness-nature-civilization",
+  "title": "The River's Sigh",
+  "tagline": "A man who listens to the forest must track a fortune in stolen timber through the roaring heart of the Gilded Age.",
+  "target_words": 70000,
+  "actual_words": 75870,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Consciousness of Nature",
+    "The Violence of Extraction",
+    "Memory vs. Progress",
+    "The Sensory Cost of Civilization"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Vanished Pine",
+      "words": 3160
+    },
+    {
+      "ch": 2,
+      "title": "The Bellowing Ox",
+      "words": 3160
+    },
+    {
+      "ch": 3,
+      "title": "The Queen Mab",
+      "words": 3160
+    },
+    {
+      "ch": 4,
+      "title": "Upstream",
+      "words": 3160
+    },
+    {
+      "ch": 5,
+      "title": "The Sound of Cutting",
+      "words": 3160
+    },
+    {
+      "ch": 6,
+      "title": "Ghosts in the Yard",
+      "words": 3160
+    },
+    {
+      "ch": 7,
+      "title": "Morgan's Ledger",
+      "words": 3160
+    },
+    {
+      "ch": 8,
+      "title": "The Iron Whisper",
+      "words": 3160
+    },
+    {
+      "ch": 9,
+      "title": "A Silence in Chicago",
+      "words": 3160
+    },
+    {
+      "ch": 10,
+      "title": "Root and Rot",
+      "words": 3160
+    },
+    {
+      "ch": 11,
+      "title": "The Boy at the Door",
+      "words": 3160
+    },
+    {
+      "ch": 12,
+      "title": "The Photograph's Secret",
+      "words": 3160
+    },
+    {
+      "ch": 13,
+      "title": "Against the Current",
+      "words": 3160
+    },
+    {
+      "ch": 14,
+      "title": "The Foundry's Heart",
+      "words": 3160
+    },
+    {
+      "ch": 15,
+      "title": "O'Shaughnessy's Tale",
+      "words": 3160
+    },
+    {
+      "ch": 16,
+      "title": "The Sigh in the Wind",
+      "words": 3160
+    },
+    {
+      "ch": 17,
+      "title": "The Sucked-Dry Air",
+      "words": 3160
+    },
+    {
+      "ch": 18,
+      "title": "Bark and Moss",
+      "words": 3160
+    },
+    {
+      "ch": 19,
+      "title": "The Bridge's Stitch",
+      "words": 3160
+    },
+    {
+      "ch": 20,
+      "title": "The Driftwood Man",
+      "words": 3160
+    },
+    {
+      "ch": 21,
+      "title": "The House That Sighs",
+      "words": 3160
+    },
+    {
+      "ch": 22,
+      "title": "The God's Mutter",
+      "words": 3160
+    },
+    {
+      "ch": 23,
+      "title": "Primeval",
+      "words": 3160
+    },
+    {
+      "ch": 24,
+      "title": "The Unhurried Mass",
+      "words": 3170
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene from the perspective of the stolen white pine itself, from its life in the forest to its silent, stacked imprisonment in the rail yard.",
+      "Create a monologue for Hiram Morgan, defending his 'progress' against Silas's accusations of sensory theft.",
+      "Write a chapter where a secondary character—the young clerk, Captain O'Shaughnessy—first becomes aware of the 'silence' or 'sigh' that Silas perceives.",
+      "Imagine a modern-day sequel: a descendant of Silas Thorne uses bioacoustic monitoring in a threatened rainforest, hearing a new kind of industrial 'silence'."
+    ],
+    "technical": [
+      "Build an interactive map tracing Silas's journey upriver, layering period-correct sounds (river, industry, forest) that change as he travels.",
+      "Create a data sonification project that translates Gilded Age economic data (timber output, rail mileage) into an audio landscape, contrasting 'industrial' and 'natural' soundscapes."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "William Faulkner",
+      "Rachel Carson",
+      "Theodore Dreiser",
+      "Henry David Thoreau"
+    ]
+  },
+  "cover_prompt": "A man's weathered face, eyes closed in deep listening, his ear pressed against the bark of a massive, ancient pine, [the tree's grain seeming to pulse with a faint, ethereal light as the surrounding forest whispers with unseen life], in the atmospheric style of a Hudson River School painting merged with the textured, visceral realism of Anselm Kiefer, [book cover framing, a tight, centered composition on the man and tree, with a dramatic low-angle looking up through the canopy], [behind him, the forest is starkly divided: one side is lush and alive, the other is a brutal scar of stumps and mud, with the distant, smoky silhouette of a Gilded Age logging town on the horizon, its furnaces glowing like angry eyes], [the lighting is a clash of divine and industrial: a soft, dappled golden hour light filters through the living leaves, while an oppressive, soot-tinged amber glow emanates from the distant civilization, casting long, distorted shadows], [color palette of deep forest emeralds, rich earth umbers, and mossy golds violently interrupted by smoldering oranges, ashen grays, and the sickly yellow of gaslight], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
