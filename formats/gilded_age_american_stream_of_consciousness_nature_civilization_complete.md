@@ -2,7 +2,8 @@
 
 ## **CHAPTER 1**
 
-Silas’s fingers were stained with printer’s ink and river mud, a permanent grime. The ledger on his desk showed a fortune in timber, but the words bled into the memory of a sycamore’s white bark against a sky going factory-smoke grey. The city’s new electric hum was a lie; the true current was the dark water pulling at the pilings beneath his feet, whispering of roots and rot.
+Cornelius saw the river first, then the bridge, then the price of the bridge. Steel latticework blotted the sun, casting a cage of shadows over the water’s old, murmuring skin. Progress, they called it. His mind was a ledger: one column for the shad run, the other for the railroad bonds, and the ink in both was the same cold, indelible black.
+
 
 
 A whistle shrieked from the rail yards behind him, a steel needle through the wool of river-sound. Silas didn’t turn. He let the sound pass through him, another thread in the fabric. He was a man of forty-three who looked both older and ageless, his face the color and texture of seasoned oak, his eyes the grey of a winter sky over water. He wore a suit that had been good once, the black wool gone green at the seams, the hat on his head broad-brimmed and unbothered by fashion. In his hand, a leather satchel, worn smooth.
