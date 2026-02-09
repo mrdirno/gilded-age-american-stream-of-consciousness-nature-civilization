@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 Silas’s fingers were stained with printer’s ink and river mud, a permanent grime. The ledger on his desk showed a fortune in timber, but the words bled into the memory of a sycamore’s white bark against a sky going factory-smoke grey. The city’s new electric hum was a lie; the true current was the dark water pulling at the pilings beneath his feet, whispering of roots and rot.
@@ -116,6 +118,8 @@ Silas looked past him, at the dark expanse of the raft, at the city lights shimm
 O’Shaughnessy was silent for a long moment. Then he chuckled, a sound like rocks in a can. “It’s going to be a long trip north, Mr. Thorne. A long, wet, peculiar trip. Get inside. The coffee’s hot, and the river tales are free.”
 
 Silas followed him into the shanty, leaving the rain and the city’s clamor behind. The door shut, and the river’s mutter became the dominant sound once more, a lullaby of silt and current, carrying them all, already, upstream.
+
+# Chapter 2
 
 ## **CHAPTER 2**
 
@@ -242,6 +246,8 @@ He had his heading. Not just north. Toward the silence that resisted absorption.
 The Boy’s near-drowning was an accident, a splash. This was different. This was a wound. And the river, for all its power, could not heal it alone. It needed a listener. It needed a translator.
 
 Silas Thorne stood on the gravel bar, a small, dark figure between the whispering trees and the murmuring water, and accepted the commission.
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
